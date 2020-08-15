@@ -1,0 +1,176 @@
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojAssemblyReference.cache
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+C:\Users\Décio\Documents\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojResolveAssemblyReference.cache
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CoreCompileInputs.cache
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+F:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojAssemblyReference.cache
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+J:\Proj_Emerson\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojResolveAssemblyReference.cache
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CoreCompileInputs.cache
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+C:\Users\lucas.edgomes\Desktop\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Log.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojAssemblyReference.cache
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Log.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+J:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojResolveAssemblyReference.cache
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Log.resources
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CoreCompileInputs.cache
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+F:\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojAssemblyReference.cache
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Log.resources
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+F:\Estudos\Cursos_P\Tecnico_Informatica\SENAC_TI\Software\C#\Proj01_Controle_Acesso\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe.config
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.exe
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Proj01_Controle_Acesso.pdb
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\BouncyCastle.Crypto.dll
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.dll
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\MySql.Data.dll
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.dll
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Ubiety.Dns.Core.dll
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Google.Protobuf.xml
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\MySql.Data.xml
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\bin\Debug\Renci.SshNet.xml
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csprojAssemblyReference.cache
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Form1.resources
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.f_cadastrar.resources
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Log.resources
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Login.resources
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Menu_Principal.resources
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.Properties.Resources.resources
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.GenerateResource.cache
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.csproj.CopyComplete
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.exe
+C:\Estudo_Programacao\GitHub\Nova pasta\Proj01_Controle_Acesso\obj\Debug\Proj01_Controle_Acesso.pdb

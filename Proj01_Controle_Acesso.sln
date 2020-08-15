@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj01_Controle_Acesso", "Proj01_Controle_Acesso\Proj01_Controle_Acesso.csproj", "{14C48449-CC7C-40EB-A2E2-2EC785F675CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C48449-CC7C-40EB-A2E2-2EC785F675CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C48449-CC7C-40EB-A2E2-2EC785F675CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C48449-CC7C-40EB-A2E2-2EC785F675CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C48449-CC7C-40EB-A2E2-2EC785F675CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757C9482-D3C3-4802-9DE6-FB5FB642BABE}
+	EndGlobalSection
+EndGlobal
