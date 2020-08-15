@@ -1,9 +1,8 @@
 # Proj_Controle_Acesso_TecInf
-*Trabalho do curso Técnico em Informática*</br>
-
-Projeto: Controle de acesso;
-Linguagem: C#;
-Banco de Dados: MySql.
+*Trabalho do curso: Técnico em Informática*</br>
+Projeto: Controle de acesso;</br>
+Linguagem: C#;</br>
+Banco de Dados: MySql.</br>
 
 O projeto visa um sistema para controlar entrada e saída de uma portaria de um condomínio edilício. Com dois níveis de acesso (adm, comum).
 - 'adm' é o único que tem acesso ao log de todas as entradas mais o acesso comum. 
